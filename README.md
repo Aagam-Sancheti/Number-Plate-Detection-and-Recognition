@@ -25,7 +25,7 @@ This project is a Python-based Number Plate Recognition system that uses OpenCV�
 
 ## 📁 Project Structure
 
-<img width="1068" alt="Screenshot 2025-05-06 at 1 17 57 PM" src="https://github.com/user-attachments/assets/78cf3234-9fae-4b11-9da6-68229072af87" />
+<img width="943" alt="Screenshot 2025-05-06 at 1 35 22 PM" src="https://github.com/user-attachments/assets/34d488ac-f93c-4abd-80a4-36eb2d1d411b" />
 
 ## ⚙️ Installation
 
