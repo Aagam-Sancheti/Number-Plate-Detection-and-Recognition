@@ -25,32 +25,8 @@ This project is a Python-based Number Plate Recognition system that uses OpenCV�
 
 ## 📁 Project Structure
 
-FinalProject/
-├── model/
-│   └── haarcascade_russian_plate_number.xml      # Haarcascade file for license plate detection
-├── NFT_project_liveCamera.py                     # Capture frames from a webcam (can be connected to a live CCTV feed)
-├── NFT_project.py                                # Capture frames from a recorded video
-├── NFTfinaleval.pdf                              # Final presentation explaining the working
-├── output_frames/                                # Intermediate frames saved for OCR processing
-├── SampleVideo.mp4                               # Sample input video 1
-├── SampleVideo2.mp4                              # Sample input video 2
-├── SampleVideo3.mp4                              # Sample input video 3
+<img width="1068" alt="Screenshot 2025-05-06 at 1 17 57 PM" src="https://github.com/user-attachments/assets/ae633370-5208-4f47-8163-e4efef5cc090" />
 
-model/
-└── haarcascade_russian_plate_number.xml          # Duplicate cascade model (if used outside FinalProject)
-
-number_plate_2.py                                  # Testing script with OCR integration (incremental update)
-number_plate.py                                    # Initial model for capturing license plates from live camera
-
-plates/
-├── scaned_img_0.jpg                              # Saved frame for testing
-└── scanned_img_0.jpg                             # Another saved frame (possible duplicate or test)
-
-pptnft.pdf                                         # Intermediate presentation before OCR integration
-
-requirements.txt                                   # Python dependencies
-
----
 
 ## ⚙️ Installation
 
