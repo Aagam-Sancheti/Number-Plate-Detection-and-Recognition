@@ -33,4 +33,28 @@ This project is a Python-based Number Plate Recognition system that uses OpenCVâ
 
 ```bash
 git clone https://github.com/Aagam-Sancheti/Number-Plate-Detection-and-Recognition.git
-cd Number-Plate-Detection-and-Recognition
+cd Number-Plate-Detection-and-Recognition/FinalProject/
+
+2. **Make a new Conda environment:**
+
+```bash
+conda create -n Number_plate_recognition
+
+3. **Activate the environment:**
+
+```bash
+conda activate Number_plate_recognition
+
+4. **Install dependencies from requirements.txt:**
+
+```bash
+pip install -r requirements.txt
+
+5. **Run the video or webcam capture:**
+
+```bash
+python3 video_capture.py
+# OR
+python3 live_camera_capture.py
+
+6. **Output will be visible on the terminal**
