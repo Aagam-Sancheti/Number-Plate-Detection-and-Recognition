@@ -18,8 +18,8 @@ This was a team project which took lot of efforts and sleepless night but the fi
 
 ## 🛠 Technologies Used
 
-- Python
-- OpenCV (for image processing and Haar cascade detection)
+- Python 3.12.2
+- OpenCV (for image processing and number plate capture)
 - EasyOCR (for Optical Character Recognition)
 
 ---
