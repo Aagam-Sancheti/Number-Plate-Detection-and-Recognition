@@ -4,22 +4,26 @@ This project is a Python-based Number Plate Recognition system that uses OpenCV�
 
 ---
 
- Features
-	•	Capture images from:
-		  Pre-recorded video (or)
-	    Live webcam feed
-	•	Detect and extract number plates using Pre-trained Russian Haar Cascade model.
-	•	Recognize characters using EasyOCR.
-	•	Save and display results
+## 🚀 Features
 
- ---
- 
-Technologies Used
-	•	Python
-	•	OpenCV (for image processing and Haar cascade detection)
-	•	EasyOCR (for Optical Character Recognition)
+- Capture images from:
+  - Pre-recorded video
+  - Live webcam feed
+- Detect and extract number plates using Pre-trained Russian Haar Cascade model.
+- Recognize characters using EasyOCR.
+- Save and display results.
 
- ---
+---
+
+## 🛠 Technologies Used
+
+- Python
+- OpenCV (for image processing and Haar cascade detection)
+- EasyOCR (for Optical Character Recognition)
+
+---
+
+## 📁 Project Structure
 
 FinalProject/
 ├── model/
@@ -51,6 +55,7 @@ requirements.txt                                   # Python dependencies
 ## ⚙️ Installation
 
 1. **Clone the repository:**
+
 ```bash
 git clone https://github.com/Aagam-Sancheti/Number-Plate-Detection-and-Recognition.git
 cd Number-Plate-Detection-and-Recognition
