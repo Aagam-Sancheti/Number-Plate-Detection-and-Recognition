@@ -65,6 +65,3 @@ python3 live_camera_capture.py
 6. **Output will be visible on the terminal**
   <img width="1280" alt="Screenshot 2025-05-08 at 10 23 39 AM" src="https://github.com/user-attachments/assets/c6e1c091-2128-43e3-a659-84d94f137343" />
   <img width="1194" alt="Screenshot 2025-05-08 at 10 23 22 AM" src="https://github.com/user-attachments/assets/c3554cb1-edc4-4399-9bd9-345a42f527d0" />
-
-
-
